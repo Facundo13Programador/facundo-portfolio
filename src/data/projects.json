@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Chapacar Management System",
+    "imageSrc": "projects/project.png",
+    "description": "Full-stack system for managing an auto repair workshop, including stock control, job tracking, and AI-powered assistance.",
+    "skills": ["React", "Node.js", "Express", "MongoDB"],
+    "demo": "",
+    "source": "https://github.com/Facundo13Programador/chapacar-management-system"
+  }
+ 
+]

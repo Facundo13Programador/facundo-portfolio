@@ -1,0 +1,36 @@
+[
+  {
+    "role": "Programming Analyst",
+    "organisation": "Academic Education",
+    "startDate": "2022",
+    "endDate": "2025",
+    "experiences": [
+      "Completed my studies as a Programming Analyst.",
+      "Developed academic and practical projects applying logic, databases, and programming.",
+      "Strengthened my skills in web development, backend development, and problem-solving."
+    ],
+    "imageSrc": "history/cei.png"
+  },
+  {
+    "role": "Personal Projects",
+    "organisation": "Portfolio & Practice",
+    "startDate": "2024",
+    "endDate": "Present",
+    "experiences": [
+      "Developed web applications using React, JavaScript, and Node.js.",
+      "Created projects to improve my portfolio and continue strengthening my technical skills."
+    ],
+    "imageSrc": "history/portafolio.png"
+  },
+  {
+    "role": "Continuous Learning",
+    "organisation": "Self-Learning",
+    "startDate": "2024",
+    "endDate": "Present",
+    "experiences": [
+      "Continuously improving my knowledge in different technologies.",
+      "Focused on growing as a junior developer and obtaining my first opportunity in the tech industry."
+    ],
+    "imageSrc": "history/aprendizaje.png"
+  }
+]
